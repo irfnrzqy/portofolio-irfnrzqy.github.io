@@ -1,0 +1,50 @@
+nav {
+  background-color: #a50f0f;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e43737;
+  text-align: center;
+  color: #ffffff;
+}
+
+.jumbotron img {
+  width: 200px;
+}
+
+#about p {
+  text-align: start;
+}
+
+#exp {
+  background-color: #e43737;
+  color: #ffffff;
+}
+
+#exp .row {
+  margin-bottom: 2rem;
+}
+
+#exp .card {
+  color: black;
+}
+
+#exp img {
+  width: auto;
+  height: 300px;
+}
+
+footer {
+  background-color: #a50f0f;
+  color: white;
+}
+
+footer a {
+  color: white;
+  font-weight: bold;
+}
