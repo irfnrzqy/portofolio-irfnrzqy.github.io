@@ -6,6 +6,30 @@ section {
   padding-top: 5rem;
 }
 
+h1 {
+  font-family: "Playfair Display SC", serif;
+}
+
+h2 {
+  font-family: "Playfair Display SC", serif;
+}
+
+p .lead {
+  font-family: "oswald", sans-serif;
+}
+
+p {
+  font-family: "Nunito", sans-serif;
+}
+
+.nav-link {
+  font-family: "oswald", sans-serif;
+}
+
+#contact {
+  padding: 3rem;
+}
+
 .jumbotron {
   padding-top: 6rem;
   background-color: #e43737;
@@ -24,6 +48,7 @@ section {
 #exp {
   background-color: #e43737;
   color: #ffffff;
+  /* padding-top: 3rem; */
 }
 
 #exp .row {
@@ -32,11 +57,43 @@ section {
 
 #exp .card {
   color: black;
+  border-radius: 20px;
 }
 
 #exp img {
   width: auto;
   height: 300px;
+  border-radius: 20px;
+}
+
+.btn {
+  min-width: 160px;
+  background-color: black;
+}
+
+.dropdown-menu {
+  transition: all 0.5s ease;
+}
+
+#contact .bi {
+  margin-right: 15px;
+  font-weight: bolder;
+}
+
+.bi-instagram {
+  color: #c13584;
+}
+
+.bi-envelope-fill {
+  color: #3b60c4;
+}
+
+.bi-whatsapp {
+  color: #075e54;
+}
+
+.bi-telegram {
+  color: #24f4ff;
 }
 
 footer {
